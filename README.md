@@ -104,9 +104,5 @@ All test cases produced the expected GCD values.
 
 ## Author
 
-Reddy Bhargavi Chenga
-
-Electronics and Communication Engineering
-
-National Institute of Technology Durgapur
+Dharavath Lahari
 
